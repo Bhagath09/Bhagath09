@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhagath09
-- 👀 I’m interested in Coding, Web Development, Machine learning, Maths, Gaming
-- 🌱 I’m currently learning Front-end development
-- 💞️ I’m looking to collaborate on nothing now
+- 👀 I’m interested in Coding, Web Development, Machine learning, Data Science
+- 🌱 I’m currently learning Python hardcore
+- 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me, IDK
 - 😄 Pronouns: Monachan
 - ⚡ Fun fact: Coding addict, even in SSLC
